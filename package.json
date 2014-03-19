@@ -1,0 +1,14 @@
+{
+    "version": "0.0.1",
+    "name": "com.varunsikka.notificationsplugin",
+    "cordova_name": "NotificationsPlugin",
+    "description": "Notifications Plugin for Phonegap",
+    "license": "",
+    "repo": "https://github.com/varunsikka/NotificationsPlugin.git",
+    "issue": "",
+    "keywords": [
+        "cordova",
+        "android notifications"
+    ],
+    "engines": []
+}
